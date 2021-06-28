@@ -20,8 +20,8 @@ Highlighted Projects
 
 1\. 3D Mouse Brain Reconstruction and Analysis
 ------
-<img src="images/small_hot_brain.gif" alt="recon_brain" style="height:150px;  margin: 20px 5px 0px 80px"/>
-<img src="images/activated_3d_cell.gif" alt="3d_cell" style="float:right; height:150px;  margin: 20px 120px 0px 5px"/> 
+<img src="images/small_hot_brain.gif" alt="recon_brain" style="height:100px;  margin: 20px 5px 0px 40px"/>
+<img src="images/activated_3d_cell.gif" alt="3d_cell" style="float:right; height:100px;  margin: 20px 40px 0px 5px"/> 
 
 <b>The right image:</b> The high resolution and flexible choices of stains make the microscopy an irreplaceable tool to observe fine brain structures, such as cells. The raw data (~20 brain sections after tissue clearing) of the reconstructed brain on the left is acquired by [Dr. Kapur's lab](https://braininstitute.virginia.edu/kapur), and the red fluorescence of tdTomato reflects the seizure spreading during epilepsy. Visualizing and analyzing the seizure spreading pathway help neuroscientists find out the mechanism of epilepsy and the drugs to terminate epilepsy an early stage. Details about the reconstruction method can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6488466/).
 
