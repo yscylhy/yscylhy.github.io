@@ -35,12 +35,6 @@ Work experience
 * Mar.2013-Jun.2014: Software Intern, Multimedia Analysis and Processing Laboratory, SJTU, China.
   * Developed a new crowdedness-adaptive pedestrian counting method for surveillance videos.
   
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
   
 Professinoal Service
 ======
